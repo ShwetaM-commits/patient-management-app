@@ -13,7 +13,7 @@ st.markdown(
         background: linear-gradient(135deg, #b3e0ff 0%, #a7ffeb 100%) !important;
     }
     </style>
-    """
+    """,
     unsafe_allow_html=True
 )
 
